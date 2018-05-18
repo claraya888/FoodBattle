@@ -29,7 +29,8 @@
         <activity android:name=".Email" />
         <activity android:name=".Success" />
         <activity android:name=".Fail" />
-        <activity android:name=".Setting"></activity>
+        <activity android:name=".Setting" />
+        <activity android:name=".menulist"></activity>
     </application>
 
 </manifest>
