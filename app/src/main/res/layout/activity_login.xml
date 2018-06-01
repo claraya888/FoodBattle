@@ -17,8 +17,8 @@
         android:id="@+id/imageView"
         android:layout_width="match_parent"
         android:layout_height="85dp"
-        app:srcCompat="@drawable/logo"
-        android:contentDescription="@string/todo" />
+        android:contentDescription="@string/todo"
+        app:srcCompat="@drawable/logo" />
 
     <TextView
         android:id="@+id/textView"
@@ -42,7 +42,7 @@
         android:layout_width="match_parent"
         android:layout_height="22dp"
         android:orientation="horizontal"
-        tools:ignore="UselessLeaf"></LinearLayout>
+        tools:ignore="UselessLeaf"/>
 
 
     <ScrollView
